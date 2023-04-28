@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaasspetterpoep
-- 👀 I’m interested in you
-- 🌱 I’m currently learning chinese
-- 💞️ I’m looking to collaborate on rick astley
-- 📫 How to reach me, just walk.
+- 👀 I’m interested in JavaScript, C# and PHP
+- 🌱 I’m currently learning All of that!
+- 💞️ I’m looking to collaborate on rick astley (We share the same birthday ;))
 
 
